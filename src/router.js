@@ -17,6 +17,7 @@ export default new Router({
       name: 'OneDimensionalMap',
       component: OneDimensionalMap,
     },
+    // Adding other routes here
     {
       path: '/about',
       name: 'about',
